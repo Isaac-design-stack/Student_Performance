@@ -6,10 +6,10 @@ It leverages data analysis and machine learning techniques to extract insights a
 ## 🗂️ Project Structure
 
 Student_Performance/
-├── Student_performance.ipynb    # Jupyter notebook with code and visualizations
-├── README.md                    # Project description and usage instructions
-├── requirements.txt             # Python dependencies for the project
-└── student_data.csv             # Dataset used for training and evaluation
+├── Student_performance.ipynb    
+├── README.md                    
+├── requirements.txt             
+└── student_data.csv             
 
 
 ## 🚀 Features
