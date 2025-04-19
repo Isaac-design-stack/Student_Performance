@@ -1,7 +1,8 @@
 # Student Performance Prediction 📊
 
-This project predicts students' academic performance based on various factors such as study time, parental education level, test preparation, and more. 
-It leverages data analysis and machine learning techniques to extract insights and build a predictive model.
+This project predicts students' academic performance based on various factors such as Hours Studied, Previous Scores, 
+Extracurricular Activities, Sleep Hours, and more. It leverages data analysis and machine learning techniques 
+to extract insights and build a predictive model.
 
 ## 🗂️ Project Structure
 
