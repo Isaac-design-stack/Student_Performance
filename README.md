@@ -7,6 +7,7 @@ to extract insights and build a predictive model.
 ## 🗂️ Project Structure
 
 Student_Performance/
+
 ├── Student_performance.ipynb    
 ├── README.md                    
 ├── requirements.txt             
